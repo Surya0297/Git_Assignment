@@ -5,8 +5,8 @@ let count=0;
             count++;
         }
     }
-    if(cout>2){
+    if(count>2){
         console.log("No");
     }else{
-        conole.log("Yes");
+        console.log("Yes");
     }
